@@ -11,7 +11,7 @@ I completely stole the slate theme from vim, and overwrote several of the colors
 With vim-plug
 
 ```
-Plug fedreg/deeper-blue.vim
+Plug `fedreg/deeper-blue.vim`
 ```
 ```
 :source %
