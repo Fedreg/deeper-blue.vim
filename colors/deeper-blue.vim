@@ -14,7 +14,7 @@ if version > 580
  syntax reset
  endif
 endif
-let colors_name = "slate"
+let colors_name = "deeper-blue"
 :hi Normal guifg=grey80 guibg=#181a26
 :hi Cursor guibg=khaki guifg=slategrey
 :hi VertSplit guibg=#c2bfa5 guifg=grey40 gui=none cterm=reverse
@@ -66,4 +66,3 @@ let colors_name = "slate"
 :hi PmenuSbar guifg=blue guibg=darkgray
 :hi PmenuThumb guifg=#c0c0c0
 
-S
