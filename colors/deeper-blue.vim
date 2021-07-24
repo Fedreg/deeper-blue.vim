@@ -23,7 +23,7 @@ let colors_name = "deeper-blue"
 :hi IncSearch    guifg=green          guibg=black cterm=none ctermfg=yellow ctermbg=green
 :hi ModeMsg      guifg=goldenrod      cterm=none ctermfg=brown
 :hi MoreMsg      guifg=SeaGreen       ctermfg=darkgreen
-:hi NonText      guifg=RoyalBlue      guibg=grey15 cterm=bold ctermfg=blue
+:hi NonText      guifg=RoyalBlue      guibg=#181a26 cterm=bold ctermfg=blue
 :hi Question     guifg=springgreen    ctermfg=green
 :hi Search       guifg=wheat          guibg=peru cterm=none ctermfg=grey ctermbg=blue
 :hi SpecialKey   guifg=yellowgreen    ctermfg=darkgreen
